@@ -1,0 +1,34 @@
+# MPLAB IDE generated this makefile for use with Microsoft `nmake'.
+# Project: TulabDX.mcp
+# Date: Mon Jun 01 16:52:27 2020
+
+AS = MPASMWIN.exe
+CC = mcc18.exe
+LD = mplink.exe
+AR = mplib.exe
+RM = del
+
+"TulabDX.cof" : "C:\MCC18\Main_PCR.o" "C:\MCC18\uart_module.o" "C:\MCC18\Functions.o" "C:\MCC18\i2c_lcd.o" "C:\MCC18\SBC_Rpi.o" "C:\MCC18\ds1307.o"
+	$(LD) /l"C:\MCC18\lib" "C:\MCC18\rm18f4550.lkr" "C:\MCC18\Main_PCR.o" "C:\MCC18\uart_module.o" "C:\MCC18\Functions.o" "C:\MCC18\i2c_lcd.o" "C:\MCC18\SBC_Rpi.o" "C:\MCC18\ds1307.o" /z__MPLAB_BUILD=1 /z__MPLAB_DEBUG=1 /o"TulabDX.cof" /M"TulabDX.map" /W
+
+"C:\MCC18\Main_PCR.o" : "Main_PCR.c" "uart_module.h" "C:\MCC18\h\delays.h" "i2c_lcd.h" "ds1307.h" "Functions.h" "i2c_lcd.h" "Functions.h" "SBC_Rpi.h" "Main_PCR.c" "C:\MCC18\h\p18cxxx.h" "C:\MCC18\h\p18f4550.h" "Pin_Definitions.h"
+	$(CC) -p=18F4550 /i"C:\MCC18\h" "Main_PCR.c" -fo="C:\MCC18\Main_PCR.o" -D__DEBUG -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"C:\MCC18\uart_module.o" : "uart_module.c" "C:\MCC18\h\usart.h" "uart_module.h" "uart_module.c" "C:\MCC18\h\p18cxxx.h" "C:\MCC18\h\p18f4550.h"
+	$(CC) -p=18F4550 /i"C:\MCC18\h" "uart_module.c" -fo="C:\MCC18\uart_module.o" -D__DEBUG -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"C:\MCC18\Functions.o" : "Functions.c" "C:\MCC18\h\delays.h" "i2c_lcd.h" "ds1307.h" "Functions.h" "Functions.c" "C:\MCC18\h\p18cxxx.h" "C:\MCC18\h\p18f4550.h" "Pin_Definitions.h"
+	$(CC) -p=18F4550 /i"C:\MCC18\h" "Functions.c" -fo="C:\MCC18\Functions.o" -D__DEBUG -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"C:\MCC18\i2c_lcd.o" : "i2c_lcd.c" "C:\MCC18\h\delays.h" "i2c_lcd.h" "i2c_lcd.c" "C:\MCC18\h\p18cxxx.h" "C:\MCC18\h\p18f4550.h"
+	$(CC) -p=18F4550 /i"C:\MCC18\h" "i2c_lcd.c" -fo="C:\MCC18\i2c_lcd.o" -D__DEBUG -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"C:\MCC18\SBC_Rpi.o" : "SBC_Rpi.c" "C:\MCC18\h\delays.h" "i2c_lcd.h" "ds1307.h" "Functions.h" "SBC_Rpi.h" "SBC_Rpi.c" "C:\MCC18\h\p18cxxx.h" "C:\MCC18\h\p18f4550.h" "Pin_Definitions.h"
+	$(CC) -p=18F4550 /i"C:\MCC18\h" "SBC_Rpi.c" -fo="C:\MCC18\SBC_Rpi.o" -D__DEBUG -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"C:\MCC18\ds1307.o" : "ds1307.c" "ds1307.h" "ds1307.c" "C:\MCC18\h\p18cxxx.h" "C:\MCC18\h\p18f4550.h"
+	$(CC) -p=18F4550 /i"C:\MCC18\h" "ds1307.c" -fo="C:\MCC18\ds1307.o" -D__DEBUG -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"clean" : 
+	$(RM) "C:\MCC18\Main_PCR.o" "C:\MCC18\uart_module.o" "C:\MCC18\Functions.o" "C:\MCC18\i2c_lcd.o" "C:\MCC18\SBC_Rpi.o" "C:\MCC18\ds1307.o" "TulabDX.cof" "TulabDX.hex"
+

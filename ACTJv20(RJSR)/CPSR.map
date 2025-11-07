@@ -1,0 +1,1095 @@
+MPLINK 5.00, LINKER
+Linker Map File - Created Thu Nov 06 02:14:15 2025
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+               _entry_scn       code   0x000000    program   0x000006
+                   .cinit    romdata   0x000800    program   0x000026
+          .code_i2c_lcd.o       code   0x000826    program   0x000f04
+          .code_SBC_Rpi.o       code   0x00172a    program   0x000cb4
+         .code_Main_PCR.o       code   0x0023de    program   0x000664
+        .code_Functions.o       code   0x002a42    program   0x0005e0
+             .stringtable    romdata   0x003022    program   0x0001c2
+      .code_uart_module.o       code   0x0031e4    program   0x0000d8
+               _cinit_scn       code   0x0032bc    program   0x00009e
+          .code_service.o       code   0x00335a    program   0x00005c
+                     PROG       code   0x0033b6    program   0x00004c
+         .code_fxd3232u.o       code   0x003402    program   0x000048
+           .code_uwrite.o       code   0x00344a    program   0x00002e
+         .code_fxd1616u.o       code   0x003478    program   0x00002c
+              D1KTCYXCODE       code   0x0034a4    program   0x000020
+                    .code       code   0x0034c4    program   0x000020
+             _startup_scn       code   0x0034e4    program   0x00001c
+              D10TCYXCODE       code   0x003500    program   0x000016
+           .code___init.o       code   0x003516    program   0x000002
+       .code_LCD_module.o       code   0x003518    program   0x000002
+     .romdata_Functions.o    romdata   0x00351a    program   0x000000
+      .romdata_fxd1616u.o    romdata   0x00351a    program   0x000000
+      .romdata_fxd3232u.o    romdata   0x00351a    program   0x000000
+        .romdata___init.o    romdata   0x00351a    program   0x000000
+        .idata_uwrite.o_i    romdata   0x00351a    program   0x000000
+        .romdata_uwrite.o    romdata   0x00351a    program   0x000000
+         .idata_udefs.o_i    romdata   0x00351a    program   0x000000
+         .romdata_udefs.o    romdata   0x00351a    program   0x000000
+       .romdata_i2c_lcd.o    romdata   0x00351a    program   0x000000
+       .idata_i2c_lcd.o_i    romdata   0x00351a    program   0x000001
+    .romdata_LCD_module.o    romdata   0x00351a    program   0x000000
+         .romdata_c018i.o    romdata   0x00351a    program   0x000000
+   .idata_uart_module.o_i    romdata   0x00351a    program   0x000000
+   .romdata_uart_module.o    romdata   0x00351a    program   0x000000
+      .romdata_Main_PCR.o    romdata   0x00351a    program   0x000000
+       .idata_service.o_i    romdata   0x00351a    program   0x000000
+       .romdata_service.o    romdata   0x00351a    program   0x000000
+       .romdata_SBC_Rpi.o    romdata   0x00351a    program   0x000000
+         .idata_c018i.o_i    romdata   0x00351b    program   0x000000
+        .idata___init.o_i    romdata   0x00351b    program   0x000000
+       .idata_SBC_Rpi.o_i    romdata   0x00351b    program   0x000009
+      .idata_fxd3232u.o_i    romdata   0x00351b    program   0x000000
+      .idata_fxd1616u.o_i    romdata   0x00351b    program   0x000000
+      .idata_Main_PCR.o_i    romdata   0x003524    program   0x00000f
+    .idata_LCD_module.o_i    romdata   0x003533    program   0x000000
+     .idata_Functions.o_i    romdata   0x003533    program   0x000000
+            .code_udefs.o       code   0x003534    program   0x000000
+            .code_c018i.o       code   0x003534    program   0x000000
+.config_300000_Main_PCR.o    romdata   0x300000    program   0x000001
+.config_300001_Main_PCR.o    romdata   0x300001    program   0x000001
+                MATH_DATA      udata   0x000000       data   0x000010
+                 .tmpdata      udata   0x000010       data   0x000004
+                DELAYDAT1      udata   0x000014       data   0x000001
+        .idata_Main_PCR.o      idata   0x000060       data   0x00000f
+       .udata_Functions.o      udata   0x00006f       data   0x00000b
+           .udata_c018i.o      udata   0x00007a       data   0x00000a
+         .idata_SBC_Rpi.o      idata   0x000084       data   0x000009
+         .udata_SBC_Rpi.o      udata   0x00008d       data   0x000003
+         .udata_i2c_lcd.o      udata   0x000090       data   0x000002
+           .udata_udefs.o      udata   0x000092       data   0x000001
+     .udata_uart_module.o      udata   0x000093       data   0x000001
+         .idata_i2c_lcd.o      idata   0x000094       data   0x000001
+          .idata___init.o      idata   0x000095       data   0x000000
+          .udata___init.o      udata   0x000095       data   0x000000
+           .idata_udefs.o      idata   0x000095       data   0x000000
+           .idata_c018i.o      idata   0x000095       data   0x000000
+          .idata_uwrite.o      idata   0x000095       data   0x000000
+          .udata_uwrite.o      udata   0x000095       data   0x000000
+        .idata_fxd3232u.o      idata   0x000095       data   0x000000
+        .udata_fxd3232u.o      udata   0x000095       data   0x000000
+        .idata_fxd1616u.o      idata   0x000095       data   0x000000
+        .udata_fxd1616u.o      udata   0x000095       data   0x000000
+     .idata_uart_module.o      idata   0x000095       data   0x000000
+       .idata_Functions.o      idata   0x000095       data   0x000000
+         .udata_service.o      udata   0x000095       data   0x000000
+         .idata_service.o      idata   0x000095       data   0x000000
+        .udata_Main_PCR.o      udata   0x000095       data   0x000000
+      .idata_LCD_module.o      idata   0x000095       data   0x000000
+      .udata_LCD_module.o      udata   0x000095       data   0x000000
+                   .stack      udata   0x000300       data   0x000100
+            SFR_UNBANKED0      udata   0x000f62       data   0x00009e
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000005      
+                            0x000800    0x003532      
+                            0x300000    0x300001      
+            11579 out of 31042 program addresses used, program memory utilization is 37%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 ADC_Init   0x002e10    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+                 ADC_Read   0x002e1c    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+                    D10_1   0x003510    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d10tcyx.asm
+                     D10x   0x003508    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d10tcyx.asm
+                   D1616S   0x0033d8    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616s.asm
+                D1616SNEG   0x0033e6    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616s.asm
+                 D1616SOK   0x0033e2    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616s.asm
+                  D1616SX   0x0033f8    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616s.asm
+                    D1K_1   0x0034b0    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d1ktcyx.asm
+                     D1Kx   0x0034ae    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d1ktcyx.asm
+                  DA1616S   0x0033c8    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616s.asm
+              DELAY_100mS   0x002c6e    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+               DELAY_10mS   0x002ac6    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+                 DELAY_1S   0x002b30    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+                DELAY_1mS   0x002d40    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+              DELAY_250mS   0x002c04    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+                DELAY_2mS   0x002da8    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+              DELAY_500mS   0x002b9a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+               DELAY_50mS   0x002cd8    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+              Delay10TCYx   0x003500    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d10tcyx.asm
+              Delay1KTCYx   0x0034a4    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d1ktcyx.asm
+         DisplayCatNotDet   0x001178    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+        DisplayStackEmpty   0x00125c    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+           Expander_Write   0x0013ca    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                 FXD1616S   0x0033b6    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616s.asm
+                 FXD1616U   0x003478    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616u.c
+                 FXD3232U   0x003402    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd3232u.c
+                I2C_Init1   0x00134e    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                I2C_Ready   0x001378    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                I2C_Start   0x00138e    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                 I2C_Stop   0x0013a6    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                I2C_Write   0x0013b2    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+            Init_PowerInt   0x003014    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+            Init_UART_RPi   0x002268    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                LCD_Begin   0x0016aa    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                  LCD_Cmd   0x001456    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                 LCD_Goto   0x00149a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                LCD_Print   0x0014d2    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+         LCD_Print_rammem   0x001628    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+          LCD_Print_space   0x00155a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+         LCD_Write_Nibble   0x0013f4    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+             SBC_UARTInit   0x00172a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              Tower_Write   0x002a52    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+                 UARTInit   0x0032a2    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\uart_module.c
+               VacuumTest   0x0029ea    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                ValveTest   0x0029d8    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               WriteUSART   0x00344a    program     extern E:\3.46\pic18-lt\cxx-framework\src\pmc_common\USART\uwrite.c
+   YourLowPriorityISRCode   0x002490    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+        _D10TCYXCODE_000A   0x00350a    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d10tcyx.asm
+        _D10TCYXCODE_000C   0x00350c    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d10tcyx.asm
+        _D10TCYXCODE_000E   0x00350e    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d10tcyx.asm
+        _D1KTCYXCODE_0010   0x0034b4    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d1ktcyx.asm
+        _D1KTCYXCODE_0016   0x0034ba    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d1ktcyx.asm
+       ___case_0_lbl00068   0x002e84    program     static                          
+       ___case_1_lbl00069   0x002e8a    program     static                          
+       ___case_2_lbl00070   0x002e90    program     static                          
+       ___case_3_lbl00071   0x002e96    program     static                          
+       ___case_4_lbl00072   0x002e9c    program     static                          
+          ___for_lbl00001   0x003214    program     static                          
+          ___for_lbl00002   0x003220    program     static                          
+          ___for_lbl00003   0x0031f8    program     static                          
+           ___if_lbl00019   0x002514    program     static                          
+       ___return_lbl00000   0x003226    program     static                          
+       ___return_lbl00000   0x0034a2    program     static                          
+       ___return_lbl00000   0x000004    program     static                          
+       ___return_lbl00000   0x003448    program     static                          
+       ___return_lbl00001   0x0034fe    program     static                          
+       ___return_lbl00002   0x003358    program     static                          
+       ___return_lbl00008   0x00329a    program     static                          
+       ___return_lbl00015   0x002514    program     static                          
+       ___return_lbl00066   0x003000    program     static                          
+   ___switchexit_lbl00067   0x002ea2    program     static                          
+        ___while_lbl00009   0x003288    program     static                          
+        ___while_lbl00010   0x00328c    program     static                          
+        ___while_lbl00016   0x0024f4    program     static                          
+        ___while_lbl00017   0x002508    program     static                          
+        ___while_lbl00073   0x002ea2    program     static                          
+        ___while_lbl00074   0x002fa2    program     static                          
+        ___while_lbl00075   0x002ed2    program     static                          
+        ___while_lbl00076   0x002ed6    program     static                          
+               __config_0   0x300000    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __config_1   0x300001    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                   __init   0x003516    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\stdclib\__init.c
+               __string_0   0x0030f4    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_0   0x0031d6    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+               __string_0   0x0031a2    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_1   0x0031d4    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+               __string_1   0x003196    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_1   0x0030f0    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_10   0x0030a0    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_10   0x003121    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+              __string_11   0x003097    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_11   0x003118    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+              __string_12   0x00308c    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_12   0x00310f    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+              __string_13   0x003083    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_13   0x0030fe    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+              __string_14   0x003075    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_15   0x003064    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_16   0x003056    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_17   0x003044    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_18   0x003036    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_19   0x003027    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_2   0x00318a    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_2   0x0030e7    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_2   0x0031c8    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+              __string_20   0x003022    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_3   0x0031bb    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+               __string_3   0x0030e4    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_3   0x00317e    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_4   0x0031af    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+               __string_4   0x0030dc    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_4   0x00316d    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_5   0x0030d5    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_5   0x00315d    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_6   0x00314c    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_6   0x0030c8    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_7   0x0030bf    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_7   0x00313b    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_8   0x00312b    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_8   0x0030b2    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_9   0x003126    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_9   0x0030ac    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __tmplbl_0   0x002500    program     static                          
+               __tmplbl_1   0x0024fa    program     static                          
+            __zero_memory   0x0034c4    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                _do_cinit   0x0032bc    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+                   _entry   0x000000    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+                   _false   0x003444    program     static                          
+                 _startup   0x0034e4    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+      board_test_protocol   0x003020    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+            catFB_forward   0x0025d4    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                 cat_test   0x002830    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+         check_key_intrpt   0x002816    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+              check_stack   0x0027ce    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                compare_l   0x0034da    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+         cont_error_check   0x0024b6    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                copy_loop   0x00332e    program     static                          
+            copy_one_byte   0x003334    program     static                          
+               delay100ns   0x0031e4    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\uart_module.c
+               delay500us   0x00323a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\uart_module.c
+               disable_qr   0x001816    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              disable_sbc   0x001744    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                  display   0x000826    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+           display_counts   0x00094e    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+              display_ram   0x0008ba    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                     done   0x003358    program     static                          
+             done_copying   0x003342    program     static                          
+                enable_qr   0x001882    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               enable_sbc   0x0017ae    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                  endloop   0x00349e    program     static                          
+               flush_uart   0x001a70    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                     loop   0x0034f4    program     static                          
+                     loop   0x003482    program     static                          
+                     loop   0x003410    program     static                          
+                   loop_h   0x0034d2    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   loop_l   0x0034dc    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     main   0x0023de    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                  mainlcd   0x003518    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\LCD_module.c
+        mechUp_catFB_Back   0x0026fe    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+        mech_error_botton   0x00335a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\service.c
+          mech_error_loop   0x003390    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\service.c
+          mech_plate_down   0x002516    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                port_init   0x0029ec    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+              read_eeprom   0x002a62    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+          read_string_rpi   0x002286    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               reject_off   0x0025b0    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                reject_on   0x00258c    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+          reset_mechanism   0x002818    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+          sent_rpi_uint16   0x001f82    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+       sent_rpi_valve_rot   0x00208a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                     test   0x0032d6    program     static                          
+        vacuum_leak_error   0x0029da    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               valve_left   0x002a42    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+         valve_right_idle   0x002a4a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+            wait_busy_rpi   0x0018ec    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              wait_for_qr   0x001a92    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+             wait_log_rpi   0x0019f6    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+           wait_ready_rpi   0x001954    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+             write_eeprom   0x002a8e    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+            write_ram_rpi   0x00230a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+     write_ram_string_rpi   0x0022ca    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+            write_rom_rpi   0x0023ba    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+         write_rom_rpi_nl   0x0023d4    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+     write_rom_string_rpi   0x002324    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+       write_rpi_sect_brk   0x002368    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               writeusart   0x003280    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\uart_module.c
+               zero_block   0x0034d2    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   ADCON0   0x000fc2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               ADCON0bits   0x000fc2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   ADCON1   0x000fc1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               ADCON1bits   0x000fc1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   ADCON2   0x000fc0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               ADCON2bits   0x000fc0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    ADRES   0x000fc3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   ADRESH   0x000fc4       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   ADRESL   0x000fc3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  BAUDCON   0x000fb8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              BAUDCONbits   0x000fb8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  BAUDCTL   0x000fb8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              BAUDCTLbits   0x000fb8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                      BSR   0x000fe0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   CCP1AS   0x000fb6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               CCP1ASbits   0x000fb6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  CCP1CON   0x000fbd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              CCP1CONbits   0x000fbd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  CCP1DEL   0x000fb7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              CCP1DELbits   0x000fb7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  CCP2CON   0x000fba       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              CCP2CONbits   0x000fba       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    CCPR1   0x000fbe       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   CCPR1H   0x000fbf       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   CCPR1L   0x000fbe       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    CCPR2   0x000fbb       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   CCPR2H   0x000fbc       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   CCPR2L   0x000fbb       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    CMCON   0x000fb4       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                CMCONbits   0x000fb4       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   CVRCON   0x000fb5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               CVRCONbits   0x000fb5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     DDRA   0x000f92       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 DDRAbits   0x000f92       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     DDRB   0x000f93       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 DDRBbits   0x000f93       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     DDRC   0x000f94       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 DDRCbits   0x000f94       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     DDRD   0x000f95       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 DDRDbits   0x000f95       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     DDRE   0x000f96       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 DDREbits   0x000f96       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+            DelayCounter1   0x000014       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\delayd1.asm
+                  ECCP1AS   0x000fb6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              ECCP1ASbits   0x000fb6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 ECCP1CON   0x000fbd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+             ECCP1CONbits   0x000fbd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 ECCP1DEL   0x000fb7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+             ECCP1DELbits   0x000fb7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    EEADR   0x000fa9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   EECON1   0x000fa6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               EECON1bits   0x000fa6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   EECON2   0x000fa7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   EEDATA   0x000fa8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    FAILs   0x00006d       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                     FSR0   0x000fe9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    FSR0H   0x000fea       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    FSR0L   0x000fe9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     FSR1   0x000fe1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    FSR1H   0x000fe2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    FSR1L   0x000fe1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     FSR2   0x000fd9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    FSR2H   0x000fda       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    FSR2L   0x000fd9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  HLVDCON   0x000fd2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              HLVDCONbits   0x000fd2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    INDF0   0x000fef       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    INDF1   0x000fe7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    INDF2   0x000fdf       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   INTCON   0x000ff2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  INTCON2   0x000ff1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              INTCON2bits   0x000ff1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  INTCON3   0x000ff0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              INTCON3bits   0x000ff0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               INTCONbits   0x000ff2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     IPR1   0x000f9f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 IPR1bits   0x000f9f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     IPR2   0x000fa2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 IPR2bits   0x000fa2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     LATA   0x000f89       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 LATAbits   0x000f89       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     LATB   0x000f8a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 LATBbits   0x000f8a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     LATC   0x000f8b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 LATCbits   0x000f8b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     LATD   0x000f8c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 LATDbits   0x000f8c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     LATE   0x000f8d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 LATEbits   0x000f8d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   LVDCON   0x000fd2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               LVDCONbits   0x000fd2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    NO_QR   0x000087       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                   OSCCON   0x000fd3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               OSCCONbits   0x000fd3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  OSCTUNE   0x000f9b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              OSCTUNEbits   0x000f9b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PASSs   0x00006b       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                       PC   0x000ff9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                      PCL   0x000ff9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   PCLATH   0x000ffa       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   PCLATU   0x000ffb       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     PIE1   0x000f9d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 PIE1bits   0x000f9d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     PIE2   0x000fa0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 PIE2bits   0x000fa0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     PIR1   0x000f9e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 PIR1bits   0x000f9e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     PIR2   0x000fa1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 PIR2bits   0x000fa1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   PLUSW0   0x000feb       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   PLUSW1   0x000fe3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   PLUSW2   0x000fdb       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PORTA   0x000f80       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                PORTAbits   0x000f80       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PORTB   0x000f81       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                PORTBbits   0x000f81       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PORTC   0x000f82       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                PORTCbits   0x000f82       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PORTD   0x000f83       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                PORTDbits   0x000f83       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PORTE   0x000f84       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                PORTEbits   0x000f84       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 POSTDEC0   0x000fed       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 POSTDEC1   0x000fe5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 POSTDEC2   0x000fdd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 POSTINC0   0x000fee       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 POSTINC1   0x000fe6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 POSTINC2   0x000fde       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                      PR2   0x000fcb       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  PREINC0   0x000fec       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  PREINC1   0x000fe4       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  PREINC2   0x000fdc       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     PROD   0x000ff3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PRODH   0x000ff4       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PRODL   0x000ff3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              QR_FB_ERROR   0x000089       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                  QR_TOUT   0x00008b       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                     RCON   0x000fd0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 RCONbits   0x000fd0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    RCREG   0x000fae       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    RCSTA   0x000fab       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                RCSTAbits   0x000fab       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+             READER_ERROR   0x000085       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                       RS   0x000090       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                     SIGN   0x000000       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\cmath18.asm
+                    SPBRG   0x000faf       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   SPBRGH   0x000fb0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   SPPCFG   0x000f63       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               SPPCFGbits   0x000f63       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   SPPCON   0x000f65       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               SPPCONbits   0x000f65       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  SPPDATA   0x000f62       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   SPPEPS   0x000f64       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               SPPEPSbits   0x000f64       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   SSPADD   0x000fc8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   SSPBUF   0x000fc9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  SSPCON1   0x000fc6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              SSPCON1bits   0x000fc6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  SSPCON2   0x000fc5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              SSPCON2bits   0x000fc5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  SSPSTAT   0x000fc7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              SSPSTATbits   0x000fc7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   STATUS   0x000fd8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               STATUSbits   0x000fd8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   STKPTR   0x000ffc       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               STKPTRbits   0x000ffc       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    T0CON   0x000fd5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                T0CONbits   0x000fd5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    T1CON   0x000fcd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                T1CONbits   0x000fcd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    T2CON   0x000fca       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                T2CONbits   0x000fca       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    T3CON   0x000fb1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                T3CONbits   0x000fb1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   TABLAT   0x000ff5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   TBLPTR   0x000ff6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  TBLPTRH   0x000ff7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  TBLPTRL   0x000ff6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  TBLPTRU   0x000ff8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TMR0H   0x000fd7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TMR0L   0x000fd6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TMR1H   0x000fcf       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TMR1L   0x000fce       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     TMR2   0x000fcc       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TMR3H   0x000fb3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TMR3L   0x000fb2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                      TOS   0x000ffd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     TOSH   0x000ffe       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     TOSL   0x000ffd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     TOSU   0x000fff       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TRISA   0x000f92       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                TRISAbits   0x000f92       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TRISB   0x000f93       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                TRISBbits   0x000f93       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TRISC   0x000f94       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                TRISCbits   0x000f94       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TRISD   0x000f95       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                TRISDbits   0x000f95       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TRISE   0x000f96       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                TRISEbits   0x000f96       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TXREG   0x000fad       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TXSTA   0x000fac       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                TXSTAbits   0x000fac       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    Test1   0x000093       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\uart_module.c
+                    Test1   0x00008f       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                    UADDR   0x000f6e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UADDRbits   0x000f6e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UCFG   0x000f6f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UCFGbits   0x000f6f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UCON   0x000f6d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UCONbits   0x000f6d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEIE   0x000f6b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEIEbits   0x000f6b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEIR   0x000f6a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEIRbits   0x000f6a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP0   0x000f70       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP0bits   0x000f70       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP1   0x000f71       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UEP10   0x000f7a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UEP10bits   0x000f7a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UEP11   0x000f7b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UEP11bits   0x000f7b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UEP12   0x000f7c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UEP12bits   0x000f7c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UEP13   0x000f7d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UEP13bits   0x000f7d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UEP14   0x000f7e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UEP14bits   0x000f7e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UEP15   0x000f7f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UEP15bits   0x000f7f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP1bits   0x000f71       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP2   0x000f72       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP2bits   0x000f72       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP3   0x000f73       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP3bits   0x000f73       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP4   0x000f74       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP4bits   0x000f74       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP5   0x000f75       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP5bits   0x000f75       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP6   0x000f76       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP6bits   0x000f76       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP7   0x000f77       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP7bits   0x000f77       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP8   0x000f78       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP8bits   0x000f78       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP9   0x000f79       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP9bits   0x000f79       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UFRM   0x000f66       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UFRMH   0x000f67       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UFRMHbits   0x000f67       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UFRML   0x000f66       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UFRMLbits   0x000f66       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                      UIE   0x000f69       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  UIEbits   0x000f69       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                      UIR   0x000f68       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  UIRbits   0x000f68       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+             USART_Status   0x000092       data     extern E:\3.46\pic18-lt\cxx-framework\src\pmc_common\USART\udefs.c
+                    USTAT   0x000f6c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                USTATbits   0x000f6c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   WDTCON   0x000fd1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               WDTCONbits   0x000fd1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     WREG   0x000fe8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 __AARGB0   0x000009       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB1   0x000008       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB2   0x000007       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB3   0x000006       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB4   0x000005       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB5   0x000004       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB6   0x000003       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB7   0x000002       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                   __AEXP   0x00000a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __BARGB0   0x00000e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\barg.asm
+                 __BARGB1   0x00000d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\barg.asm
+                 __BARGB2   0x00000c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\barg.asm
+                 __BARGB3   0x00000b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\barg.asm
+                   __BEXP   0x00000f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\barg.asm
+                __FPFLAGS   0x000001       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\cmath18.asm
+            __FPFLAGSbits   0x000001       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\cmath18.asm
+                  __REMB0   0x000005       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                  __REMB1   0x000004       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                  __REMB2   0x000003       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                  __REMB3   0x000002       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                  __tmp_0   0x000010       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\uart_module.c
+                  __tmp_0   0x000010       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                  __tmp_0   0x000010       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                  __tmp_0   0x000010       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                  __tmp_0   0x000010       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+            backlight_val   0x000094       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                     cont   0x00006f       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+          cont_err_string   0x000066       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                    count   0x000062       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                curr_byte   0x00007d       data     static E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+               curr_entry   0x00007f       data     static E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+                 data_ptr   0x000081       data     static E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+                 i2c_addr   0x000091       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+               pass_count   0x000064       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+          press_sm_string   0x000068       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                     prom   0x00007a       data     static E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+              qr_disabled   0x00008e       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              reject_flag   0x000060       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+             sbc_disabled   0x00008d       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                sbc_ready   0x000084       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               stack_skip   0x00006a       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                  testing   0x000061       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   _entry   0x000000    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+       ___return_lbl00000   0x000004    program     static                          
+                  display   0x000826    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+              display_ram   0x0008ba    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+           display_counts   0x00094e    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+         DisplayCatNotDet   0x001178    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+        DisplayStackEmpty   0x00125c    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                I2C_Init1   0x00134e    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                I2C_Ready   0x001378    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                I2C_Start   0x00138e    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                 I2C_Stop   0x0013a6    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                I2C_Write   0x0013b2    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+           Expander_Write   0x0013ca    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+         LCD_Write_Nibble   0x0013f4    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                  LCD_Cmd   0x001456    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                 LCD_Goto   0x00149a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                LCD_Print   0x0014d2    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+          LCD_Print_space   0x00155a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+         LCD_Print_rammem   0x001628    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                LCD_Begin   0x0016aa    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+             SBC_UARTInit   0x00172a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              disable_sbc   0x001744    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               enable_sbc   0x0017ae    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               disable_qr   0x001816    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                enable_qr   0x001882    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+            wait_busy_rpi   0x0018ec    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+           wait_ready_rpi   0x001954    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+             wait_log_rpi   0x0019f6    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               flush_uart   0x001a70    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              wait_for_qr   0x001a92    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+          sent_rpi_uint16   0x001f82    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+       sent_rpi_valve_rot   0x00208a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+            Init_UART_RPi   0x002268    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+          read_string_rpi   0x002286    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+     write_ram_string_rpi   0x0022ca    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+            write_ram_rpi   0x00230a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+     write_rom_string_rpi   0x002324    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+       write_rpi_sect_brk   0x002368    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+            write_rom_rpi   0x0023ba    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+         write_rom_rpi_nl   0x0023d4    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                     main   0x0023de    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+   YourLowPriorityISRCode   0x002490    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+         cont_error_check   0x0024b6    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+        ___while_lbl00016   0x0024f4    program     static                          
+               __tmplbl_1   0x0024fa    program     static                          
+               __tmplbl_0   0x002500    program     static                          
+        ___while_lbl00017   0x002508    program     static                          
+       ___return_lbl00015   0x002514    program     static                          
+           ___if_lbl00019   0x002514    program     static                          
+          mech_plate_down   0x002516    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                reject_on   0x00258c    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               reject_off   0x0025b0    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+            catFB_forward   0x0025d4    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+        mechUp_catFB_Back   0x0026fe    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+              check_stack   0x0027ce    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+         check_key_intrpt   0x002816    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+          reset_mechanism   0x002818    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                 cat_test   0x002830    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                ValveTest   0x0029d8    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+        vacuum_leak_error   0x0029da    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               VacuumTest   0x0029ea    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                port_init   0x0029ec    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               valve_left   0x002a42    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+         valve_right_idle   0x002a4a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+              Tower_Write   0x002a52    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+              read_eeprom   0x002a62    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+             write_eeprom   0x002a8e    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+               DELAY_10mS   0x002ac6    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+                 DELAY_1S   0x002b30    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+              DELAY_500mS   0x002b9a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+              DELAY_250mS   0x002c04    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+              DELAY_100mS   0x002c6e    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+               DELAY_50mS   0x002cd8    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+                DELAY_1mS   0x002d40    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+                DELAY_2mS   0x002da8    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+                 ADC_Init   0x002e10    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+                 ADC_Read   0x002e1c    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+       ___case_0_lbl00068   0x002e84    program     static                          
+       ___case_1_lbl00069   0x002e8a    program     static                          
+       ___case_2_lbl00070   0x002e90    program     static                          
+       ___case_3_lbl00071   0x002e96    program     static                          
+       ___case_4_lbl00072   0x002e9c    program     static                          
+        ___while_lbl00073   0x002ea2    program     static                          
+   ___switchexit_lbl00067   0x002ea2    program     static                          
+        ___while_lbl00075   0x002ed2    program     static                          
+        ___while_lbl00076   0x002ed6    program     static                          
+        ___while_lbl00074   0x002fa2    program     static                          
+       ___return_lbl00066   0x003000    program     static                          
+            Init_PowerInt   0x003014    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+      board_test_protocol   0x003020    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+              __string_20   0x003022    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_19   0x003027    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_18   0x003036    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_17   0x003044    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_16   0x003056    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_15   0x003064    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_14   0x003075    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_13   0x003083    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_12   0x00308c    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_11   0x003097    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_10   0x0030a0    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_9   0x0030ac    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_8   0x0030b2    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_7   0x0030bf    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_6   0x0030c8    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_5   0x0030d5    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_4   0x0030dc    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_3   0x0030e4    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_2   0x0030e7    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_1   0x0030f0    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+               __string_0   0x0030f4    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              __string_13   0x0030fe    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+              __string_12   0x00310f    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+              __string_11   0x003118    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+              __string_10   0x003121    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_9   0x003126    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_8   0x00312b    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_7   0x00313b    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_6   0x00314c    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_5   0x00315d    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_4   0x00316d    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_3   0x00317e    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_2   0x00318a    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_1   0x003196    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_0   0x0031a2    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __string_4   0x0031af    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+               __string_3   0x0031bb    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+               __string_2   0x0031c8    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+               __string_1   0x0031d4    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+               __string_0   0x0031d6    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+               delay100ns   0x0031e4    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\uart_module.c
+          ___for_lbl00003   0x0031f8    program     static                          
+          ___for_lbl00001   0x003214    program     static                          
+          ___for_lbl00002   0x003220    program     static                          
+       ___return_lbl00000   0x003226    program     static                          
+               delay500us   0x00323a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\uart_module.c
+               writeusart   0x003280    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\uart_module.c
+        ___while_lbl00009   0x003288    program     static                          
+        ___while_lbl00010   0x00328c    program     static                          
+       ___return_lbl00008   0x00329a    program     static                          
+                 UARTInit   0x0032a2    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\uart_module.c
+                _do_cinit   0x0032bc    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+                     test   0x0032d6    program     static                          
+                copy_loop   0x00332e    program     static                          
+            copy_one_byte   0x003334    program     static                          
+             done_copying   0x003342    program     static                          
+       ___return_lbl00002   0x003358    program     static                          
+                     done   0x003358    program     static                          
+        mech_error_botton   0x00335a    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\service.c
+          mech_error_loop   0x003390    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\service.c
+                 FXD1616S   0x0033b6    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616s.asm
+                  DA1616S   0x0033c8    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616s.asm
+                   D1616S   0x0033d8    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616s.asm
+                 D1616SOK   0x0033e2    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616s.asm
+                D1616SNEG   0x0033e6    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616s.asm
+                  D1616SX   0x0033f8    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616s.asm
+                 FXD3232U   0x003402    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd3232u.c
+                     loop   0x003410    program     static                          
+                   _false   0x003444    program     static                          
+       ___return_lbl00000   0x003448    program     static                          
+               WriteUSART   0x00344a    program     extern E:\3.46\pic18-lt\cxx-framework\src\pmc_common\USART\uwrite.c
+                 FXD1616U   0x003478    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\fxd1616u.c
+                     loop   0x003482    program     static                          
+                  endloop   0x00349e    program     static                          
+       ___return_lbl00000   0x0034a2    program     static                          
+              Delay1KTCYx   0x0034a4    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d1ktcyx.asm
+                     D1Kx   0x0034ae    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d1ktcyx.asm
+                    D1K_1   0x0034b0    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d1ktcyx.asm
+        _D1KTCYXCODE_0010   0x0034b4    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d1ktcyx.asm
+        _D1KTCYXCODE_0016   0x0034ba    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d1ktcyx.asm
+            __zero_memory   0x0034c4    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               zero_block   0x0034d2    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   loop_h   0x0034d2    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                compare_l   0x0034da    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   loop_l   0x0034dc    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 _startup   0x0034e4    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+                     loop   0x0034f4    program     static                          
+       ___return_lbl00001   0x0034fe    program     static                          
+              Delay10TCYx   0x003500    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d10tcyx.asm
+                     D10x   0x003508    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d10tcyx.asm
+        _D10TCYXCODE_000A   0x00350a    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d10tcyx.asm
+        _D10TCYXCODE_000C   0x00350c    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d10tcyx.asm
+        _D10TCYXCODE_000E   0x00350e    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d10tcyx.asm
+                    D10_1   0x003510    program     static E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\d10tcyx.asm
+                   __init   0x003516    program     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\stdclib\__init.c
+                  mainlcd   0x003518    program     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\LCD_module.c
+               __config_0   0x300000    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               __config_1   0x300001    program     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                     SIGN   0x000000       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\cmath18.asm
+                __FPFLAGS   0x000001       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\cmath18.asm
+            __FPFLAGSbits   0x000001       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\cmath18.asm
+                 __AARGB7   0x000002       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                  __REMB3   0x000002       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB6   0x000003       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                  __REMB2   0x000003       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB5   0x000004       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                  __REMB1   0x000004       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB4   0x000005       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                  __REMB0   0x000005       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB3   0x000006       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB2   0x000007       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB1   0x000008       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __AARGB0   0x000009       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                   __AEXP   0x00000a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\aarg.asm
+                 __BARGB3   0x00000b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\barg.asm
+                 __BARGB2   0x00000c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\barg.asm
+                 __BARGB1   0x00000d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\barg.asm
+                 __BARGB0   0x00000e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\barg.asm
+                   __BEXP   0x00000f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\math\barg.asm
+                  __tmp_0   0x000010       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+                  __tmp_0   0x000010       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                  __tmp_0   0x000010       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                  __tmp_0   0x000010       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                  __tmp_0   0x000010       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\uart_module.c
+            DelayCounter1   0x000014       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\delays\delayd1.asm
+              reject_flag   0x000060       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                  testing   0x000061       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                    count   0x000062       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               pass_count   0x000064       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+          cont_err_string   0x000066       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+          press_sm_string   0x000068       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+               stack_skip   0x00006a       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                    PASSs   0x00006b       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                    FAILs   0x00006d       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Main_PCR.c
+                     cont   0x00006f       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\Functions.c
+                     prom   0x00007a       data     static E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+                curr_byte   0x00007d       data     static E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+               curr_entry   0x00007f       data     static E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+                 data_ptr   0x000081       data     static E:\3.46\pic18-lt\cxx-framework\src\traditional\startup\c018i.c
+                sbc_ready   0x000084       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+             READER_ERROR   0x000085       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                    NO_QR   0x000087       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              QR_FB_ERROR   0x000089       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                  QR_TOUT   0x00008b       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+             sbc_disabled   0x00008d       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+              qr_disabled   0x00008e       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                    Test1   0x00008f       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\SBC_Rpi.c
+                       RS   0x000090       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                 i2c_addr   0x000091       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+             USART_Status   0x000092       data     extern E:\3.46\pic18-lt\cxx-framework\src\pmc_common\USART\udefs.c
+                    Test1   0x000093       data     static D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\uart_module.c
+            backlight_val   0x000094       data     extern D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c
+                  SPPDATA   0x000f62       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   SPPCFG   0x000f63       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               SPPCFGbits   0x000f63       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   SPPEPS   0x000f64       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               SPPEPSbits   0x000f64       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   SPPCON   0x000f65       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               SPPCONbits   0x000f65       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UFRM   0x000f66       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UFRMLbits   0x000f66       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UFRML   0x000f66       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UFRMH   0x000f67       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UFRMHbits   0x000f67       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  UIRbits   0x000f68       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                      UIR   0x000f68       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                      UIE   0x000f69       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  UIEbits   0x000f69       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEIRbits   0x000f6a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEIR   0x000f6a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEIEbits   0x000f6b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEIE   0x000f6b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                USTATbits   0x000f6c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    USTAT   0x000f6c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UCON   0x000f6d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UCONbits   0x000f6d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UADDR   0x000f6e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UADDRbits   0x000f6e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UCFG   0x000f6f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UCFGbits   0x000f6f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP0   0x000f70       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP0bits   0x000f70       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP1   0x000f71       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP1bits   0x000f71       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP2bits   0x000f72       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP2   0x000f72       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP3bits   0x000f73       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP3   0x000f73       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP4bits   0x000f74       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP4   0x000f74       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP5bits   0x000f75       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP5   0x000f75       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP6bits   0x000f76       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP6   0x000f76       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP7bits   0x000f77       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP7   0x000f77       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP8bits   0x000f78       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP8   0x000f78       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 UEP9bits   0x000f79       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     UEP9   0x000f79       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UEP10bits   0x000f7a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UEP10   0x000f7a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UEP11   0x000f7b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UEP11bits   0x000f7b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UEP12   0x000f7c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UEP12bits   0x000f7c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UEP13   0x000f7d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UEP13bits   0x000f7d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UEP14   0x000f7e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UEP14bits   0x000f7e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    UEP15   0x000f7f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                UEP15bits   0x000f7f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PORTA   0x000f80       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                PORTAbits   0x000f80       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PORTB   0x000f81       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                PORTBbits   0x000f81       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PORTC   0x000f82       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                PORTCbits   0x000f82       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PORTD   0x000f83       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                PORTDbits   0x000f83       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PORTE   0x000f84       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                PORTEbits   0x000f84       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     LATA   0x000f89       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 LATAbits   0x000f89       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     LATB   0x000f8a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 LATBbits   0x000f8a       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     LATC   0x000f8b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 LATCbits   0x000f8b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     LATD   0x000f8c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 LATDbits   0x000f8c       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 LATEbits   0x000f8d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     LATE   0x000f8d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TRISA   0x000f92       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                TRISAbits   0x000f92       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 DDRAbits   0x000f92       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     DDRA   0x000f92       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 DDRBbits   0x000f93       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     DDRB   0x000f93       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TRISB   0x000f93       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                TRISBbits   0x000f93       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 DDRCbits   0x000f94       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     DDRC   0x000f94       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                TRISCbits   0x000f94       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TRISC   0x000f94       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 DDRDbits   0x000f95       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     DDRD   0x000f95       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                TRISDbits   0x000f95       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TRISD   0x000f95       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     DDRE   0x000f96       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 DDREbits   0x000f96       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TRISE   0x000f96       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                TRISEbits   0x000f96       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  OSCTUNE   0x000f9b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              OSCTUNEbits   0x000f9b       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 PIE1bits   0x000f9d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     PIE1   0x000f9d       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 PIR1bits   0x000f9e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     PIR1   0x000f9e       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     IPR1   0x000f9f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 IPR1bits   0x000f9f       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 PIE2bits   0x000fa0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     PIE2   0x000fa0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 PIR2bits   0x000fa1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     PIR2   0x000fa1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     IPR2   0x000fa2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 IPR2bits   0x000fa2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               EECON1bits   0x000fa6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   EECON1   0x000fa6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   EECON2   0x000fa7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   EEDATA   0x000fa8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    EEADR   0x000fa9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                RCSTAbits   0x000fab       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    RCSTA   0x000fab       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TXSTA   0x000fac       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                TXSTAbits   0x000fac       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TXREG   0x000fad       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    RCREG   0x000fae       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    SPBRG   0x000faf       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   SPBRGH   0x000fb0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                T3CONbits   0x000fb1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    T3CON   0x000fb1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TMR3L   0x000fb2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TMR3H   0x000fb3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                CMCONbits   0x000fb4       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    CMCON   0x000fb4       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   CVRCON   0x000fb5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               CVRCONbits   0x000fb5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              ECCP1ASbits   0x000fb6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               CCP1ASbits   0x000fb6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  ECCP1AS   0x000fb6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   CCP1AS   0x000fb6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              CCP1DELbits   0x000fb7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  CCP1DEL   0x000fb7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 ECCP1DEL   0x000fb7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+             ECCP1DELbits   0x000fb7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  BAUDCON   0x000fb8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              BAUDCONbits   0x000fb8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  BAUDCTL   0x000fb8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              BAUDCTLbits   0x000fb8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              CCP2CONbits   0x000fba       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  CCP2CON   0x000fba       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   CCPR2L   0x000fbb       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    CCPR2   0x000fbb       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   CCPR2H   0x000fbc       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 ECCP1CON   0x000fbd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              CCP1CONbits   0x000fbd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  CCP1CON   0x000fbd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+             ECCP1CONbits   0x000fbd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    CCPR1   0x000fbe       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   CCPR1L   0x000fbe       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   CCPR1H   0x000fbf       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   ADCON2   0x000fc0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               ADCON2bits   0x000fc0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   ADCON1   0x000fc1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               ADCON1bits   0x000fc1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   ADCON0   0x000fc2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               ADCON0bits   0x000fc2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    ADRES   0x000fc3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   ADRESL   0x000fc3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   ADRESH   0x000fc4       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              SSPCON2bits   0x000fc5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  SSPCON2   0x000fc5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  SSPCON1   0x000fc6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              SSPCON1bits   0x000fc6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  SSPSTAT   0x000fc7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              SSPSTATbits   0x000fc7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   SSPADD   0x000fc8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   SSPBUF   0x000fc9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                T2CONbits   0x000fca       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    T2CON   0x000fca       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                      PR2   0x000fcb       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     TMR2   0x000fcc       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    T1CON   0x000fcd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                T1CONbits   0x000fcd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TMR1L   0x000fce       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TMR1H   0x000fcf       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     RCON   0x000fd0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 RCONbits   0x000fd0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   WDTCON   0x000fd1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               WDTCONbits   0x000fd1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               LVDCONbits   0x000fd2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   LVDCON   0x000fd2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  HLVDCON   0x000fd2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              HLVDCONbits   0x000fd2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               OSCCONbits   0x000fd3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   OSCCON   0x000fd3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                T0CONbits   0x000fd5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    T0CON   0x000fd5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TMR0L   0x000fd6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    TMR0H   0x000fd7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               STATUSbits   0x000fd8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   STATUS   0x000fd8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    FSR2L   0x000fd9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     FSR2   0x000fd9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    FSR2H   0x000fda       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   PLUSW2   0x000fdb       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  PREINC2   0x000fdc       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 POSTDEC2   0x000fdd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 POSTINC2   0x000fde       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    INDF2   0x000fdf       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                      BSR   0x000fe0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    FSR1L   0x000fe1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     FSR1   0x000fe1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    FSR1H   0x000fe2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   PLUSW1   0x000fe3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  PREINC1   0x000fe4       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 POSTDEC1   0x000fe5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 POSTINC1   0x000fe6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    INDF1   0x000fe7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     WREG   0x000fe8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    FSR0L   0x000fe9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     FSR0   0x000fe9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    FSR0H   0x000fea       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   PLUSW0   0x000feb       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  PREINC0   0x000fec       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 POSTDEC0   0x000fed       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                 POSTINC0   0x000fee       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    INDF0   0x000fef       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              INTCON3bits   0x000ff0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  INTCON3   0x000ff0       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  INTCON2   0x000ff1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+              INTCON2bits   0x000ff1       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   INTCON   0x000ff2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               INTCONbits   0x000ff2       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     PROD   0x000ff3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PRODL   0x000ff3       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                    PRODH   0x000ff4       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   TABLAT   0x000ff5       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   TBLPTR   0x000ff6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  TBLPTRL   0x000ff6       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  TBLPTRH   0x000ff7       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                  TBLPTRU   0x000ff8       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                       PC   0x000ff9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                      PCL   0x000ff9       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   PCLATH   0x000ffa       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   PCLATU   0x000ffb       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+               STKPTRbits   0x000ffc       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                   STKPTR   0x000ffc       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                      TOS   0x000ffd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     TOSL   0x000ffd       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     TOSH   0x000ffe       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+                     TOSU   0x000fff       data     extern E:\3.46\pic18-lt\cxx-framework\src\traditional\proc\p18f4550.asm
+
+

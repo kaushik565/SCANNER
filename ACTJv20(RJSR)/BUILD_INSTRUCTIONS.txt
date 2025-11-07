@@ -1,0 +1,81 @@
+BUILD INSTRUCTIONS FOR MODIFIED FIRMWARE
+=========================================
+
+Files Modified:
+- Main_PCR.c (removed vacuum testing mechanism checks, added button skip)
+- service.c (added button error clearing in mech_error_loop)
+
+OPTION 1: Using MPLAB IDE (Recommended)
+----------------------------------------
+1. Open MPLAB IDE
+2. File → Open Project → Select "TulabDX.mcp" (NOT CPSR.mcp)
+3. Project → Set Language Tool Locations
+   - Select "HI-TECH PICC-18" or "Microchip C18"
+   - Browse to compiler installation folder
+4. Project → Build All
+5. Output .hex file will be in the same folder
+6. Flash TulabDX.hex to PIC18F4550 using your programmer
+
+OPTION 2: Using MPLAB X IDE with XC8 (Modern)
+----------------------------------------------
+1. Install MPLAB X IDE (free)
+2. Install XC8 Compiler (free version available)
+3. File → New Project → Microchip Embedded → Standalone Project
+4. Select Device: PIC18F4550
+5. Select Tool: Your programmer
+6. Select Compiler: XC8
+7. Add all .c files to project:
+   - Main_PCR.c
+   - Functions.c
+   - i2c_lcd.c
+   - LCD_module.c
+   - SBC_Rpi.c
+   - service.c
+   - uart_module.c
+8. Add all .h files to project
+9. Add linker script: rm18f4550.lkr
+10. Build → Clean and Build
+11. Flash the generated .hex to PIC
+
+OPTION 3: Command Line (if compiler installed)
+-----------------------------------------------
+If HI-TECH PICC-18 is at: C:\Program Files\HI-TECH Software\PICC-18\PRO\9.xx\bin
+
+cd "D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)"
+"C:\Program Files\HI-TECH Software\PICC-18\PRO\9.xx\bin\picc18.exe" ^
+  --chip=18F4550 ^
+  -oTulabDX.hex ^
+  Main_PCR.c Functions.c i2c_lcd.c LCD_module.c SBC_Rpi.c service.c uart_module.c
+
+OPTION 4: Send to Someone With Compiler
+----------------------------------------
+If you don't have the compiler, you can:
+1. Zip the entire ACTJv20(RJSR) folder
+2. Send to someone with MPLAB IDE + compiler
+3. They can build and send back the .hex file
+
+WHAT'S CHANGED IN FIRMWARE:
+---------------------------
+✓ Removed MECH_UP_SNS sensor check (vacuum testing removed)
+✓ Removed PLATE_UD control
+✓ Added SW_2/SW_3 button press to clear errors
+✓ "ERROR CLEARED" and "ERROR SKIPPED" messages
+✓ No more infinite error loops - buttons allow recovery
+
+FILES TO SEND IF USING OPTION 4:
+---------------------------------
+Main_PCR.c
+service.c  
+Functions.c
+i2c_lcd.c
+LCD_module.c
+SBC_Rpi.c
+uart_module.c
+(and all .h files)
+rm18f4550.lkr
+CPSR.mcp or TulabDX.mcp
+
+DOWNLOAD FREE TOOLS:
+--------------------
+MPLAB X IDE: https://www.microchip.com/mplab/mplab-x-ide
+XC8 Compiler: https://www.microchip.com/mplab/compilers

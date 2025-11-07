@@ -1,0 +1,90 @@
+TROUBLESHOOTING: Compiler Not Found in MPLAB IDE
+==================================================
+
+Problem: "Couldn't locate build tool. Check tool locations."
+
+SOLUTION 1: Manual Compiler Path Fix
+-------------------------------------
+1. Close MPLAB IDE completely
+2. Open MPLAB.INI file in text editor
+   Location (usually): C:\Program Files\Microchip\MPLAB IDE\MPLAB.INI
+   
+3. Find the [TOOL_PATHS] section
+4. Add/modify these lines (adjust version numbers):
+
+For XC8:
+[TOOL_PATHS]
+XC8_PATH=C:\Program Files\Microchip\xc8\v2.40\bin
+
+For C18:
+[TOOL_PATHS]
+C18_PATH=C:\Program Files\Microchip\mplabc18\v3.47\bin
+
+5. Save and close
+6. Reopen MPLAB IDE
+7. Try building again
+
+SOLUTION 2: Check Windows PATH
+-------------------------------
+1. Right-click "This PC" → Properties
+2. Advanced system settings → Environment Variables
+3. Under "System variables", find "Path"
+4. Click Edit
+5. Add new entry: C:\Program Files\Microchip\xc8\v2.xx\bin
+6. Click OK on all windows
+7. Restart MPLAB IDE
+
+SOLUTION 3: Reinstall Compiler with "Add to PATH" option
+---------------------------------------------------------
+1. Uninstall current compiler
+2. Download fresh installer
+3. During installation, check:
+   ☑ Add to PATH
+   ☑ Install for all users
+4. Complete installation
+5. Restart computer
+6. Open MPLAB IDE and try again
+
+SOLUTION 4: Use MPLAB X IDE Instead (Recommended)
+--------------------------------------------------
+MPLAB X IDE is newer and handles compiler paths better:
+
+1. Download MPLAB X IDE: 
+   https://www.microchip.com/mplab/mplab-x-ide
+
+2. Download XC8 Compiler:
+   https://www.microchip.com/mplab/compilers
+
+3. Install both (XC8 first, then MPLAB X)
+
+4. Open MPLAB X
+5. File → Open Project → Browse to CPSR folder
+6. (If old project format) Create new project:
+   - File → New Project
+   - Categories: Microchip Embedded
+   - Projects: Standalone Project
+   - Device: PIC18F4550
+   - Tool: (your programmer)
+   - Compiler: XC8
+   - Add all .c and .h files from the old project
+
+7. Right-click project → Build
+
+VERIFY COMPILER INSTALLATION
+-----------------------------
+Open Command Prompt and type:
+
+For XC8:
+  xc8 --version
+
+For C18:
+  mcc18 --version
+
+If you see version info → Compiler installed correctly
+If you see error → Compiler not in PATH or not installed
+
+Quick Test Build (Command Line):
+cd "D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)"
+xc8 --chip=18F4550 Main_PCR.c service.c Functions.c i2c_lcd.c LCD_module.c SBC_Rpi.c uart_module.c
+
+If this works, the compiler is fine - just MPLAB path issue.

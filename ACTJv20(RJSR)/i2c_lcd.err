@@ -1,0 +1,9 @@
+Warning[2066] D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c 11 : type qualifier mismatch in assignment
+Warning[2066] D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c 15 : type qualifier mismatch in assignment
+Warning[2066] D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c 106 : type qualifier mismatch in assignment
+Warning[2066] D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c 106 : type qualifier mismatch in assignment
+Warning[2066] D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c 156 : type qualifier mismatch in assignment
+Warning[2066] D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c 160 : type qualifier mismatch in assignment
+Warning[2066] D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c 160 : type qualifier mismatch in assignment
+Warning[2058] D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c 230 : call of function without prototype
+Warning[2058] D:\PROJECT FINAL\Scanner with ACTJ mechanism\ACTJv20(RJSR)\i2c_lcd.c 258 : call of function without prototype

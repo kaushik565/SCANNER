@@ -1,0 +1,110 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\MCC18\Main_PCR.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|C:\MCC18||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|Main_PCR.c|Functions.c|i2c_lcd.c|SBC_Rpi.c|service.c||<obj>||<lib>||<lkr>|rm18f4550.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=C:\MCC18\Functions.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|C:\MCC18||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|Main_PCR.c|Functions.c|i2c_lcd.c|SBC_Rpi.c|service.c||<obj>||<lib>||<lkr>|rm18f4550.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=C:\MCC18\i2c_lcd.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|C:\MCC18||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|Main_PCR.c|Functions.c|i2c_lcd.c|SBC_Rpi.c|service.c||<obj>||<lib>||<lkr>|rm18f4550.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=C:\MCC18\SBC_Rpi.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|C:\MCC18||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|Main_PCR.c|Functions.c|i2c_lcd.c|SBC_Rpi.c|service.c||<obj>||<lib>||<lkr>|rm18f4550.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=C:\MCC18\service.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|C:\MCC18||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|Main_PCR.c|Functions.c|i2c_lcd.c|SBC_Rpi.c|service.c||<obj>||<lib>||<lkr>|rm18f4550.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=G:\OLD PC C DRIVE\SALMAN_C\Desktop\ScannerJigV3\ACTJv20(RJSR)\TulabDX.cof
+Folder=Output
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)|C:\MCC18||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|Main_PCR.c|Functions.c|i2c_lcd.c|SBC_Rpi.c|service.c||<obj>||<lib>||<lkr>|rm18f4550.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /w /o"$(BINDIR_)$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=G:\OLD PC C DRIVE\SALMAN_C\Desktop\ScannerJigV3\ACTJv20(RJSR)\TulabDX.hex
+Folder=Output
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)|C:\MCC18||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|Main_PCR.c|Functions.c|i2c_lcd.c|SBC_Rpi.c|service.c||<obj>||<lib>||<lkr>|rm18f4550.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /w /o"$(BINDIR_)$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=G:\OLD PC C DRIVE\SALMAN_C\Desktop\ScannerJigV3\ACTJv20(RJSR)\TulabDX.map
+Folder=Output
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)|C:\MCC18||$(AINDIR)||$(INCDIR)|C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|Main_PCR.c|Functions.c|i2c_lcd.c|SBC_Rpi.c|service.c||<obj>||<lib>||<lkr>|rm18f4550.lkr||
+SuiteArgsString=
+ToolArgsString=/m"$(BINDIR_)$(TARGETBASE).map" /w /o"$(BINDIR_)$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{96C98149-AA1B-4CF9-B967-FAE79CAB663C}=C:\MCC18\bin\mplink.exe
+tool_loc{E56A1C86-9D32-4DF6-8C34-FE0388B1B644}=C:\MCC18\bin\mcc18.exe
