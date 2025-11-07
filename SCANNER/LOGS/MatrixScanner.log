@@ -1,0 +1,5488 @@
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+Ser. init:2021/03/05-16:23:22
+[Errno 2] could not open port /dev/qrscanner: [Errno 2] No such file or directory: '/dev/qrscanner'
+'SerialThread' object has no attribute 'status_pin'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+Ser. init:2021/03/05-16:27:40
+[Errno 2] could not open port /dev/qrscanner: [Errno 2] No such file or directory: '/dev/qrscanner'
+'SerialThread' object has no attribute 'status_pin'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+Ser. init:2021/03/05-16:31:58
+[Errno 2] could not open port /dev/qrscanner: [Errno 2] No such file or directory: '/dev/qrscanner'
+'SerialThread' object has no attribute 'status_pin'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+Ser. init:2021/03/05-16:36:16
+[Errno 2] could not open port /dev/qrscanner: [Errno 2] No such file or directory: '/dev/qrscanner'
+'SerialThread' object has no attribute 'status_pin'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+Ser. init:2021/03/05-16:40:34
+[Errno 2] could not open port /dev/qrscanner: [Errno 2] No such file or directory: '/dev/qrscanner'
+'SerialThread' object has no attribute 'status_pin'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+python3: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+Ser. init:2021/03/10-17:36:56
+[Errno 2] could not open port /dev/qrscanner: [Errno 2] No such file or directory: '/dev/qrscanner'
+'SerialThread' object has no attribute 'status_pin'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+Ser. init:2019/02/14-15:42:16
+[Errno 2] could not open port /dev/qrscanner: [Errno 2] No such file or directory: '/dev/qrscanner'
+'SerialThread' object has no attribute 'status_pin'
+'SerialThread' object has no attribute 'status_pin'
+'SerialThread' object has no attribute 'status_pin'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 404, in window2
+    self.w = Window2()
+  File "/SCANNER/matrix.py", line 102, in __init__
+    self.w.pushButton_2.clicked.connect(self.reset_clicked)
+AttributeError: 'Ui_SETTINGSw' object has no attribute 'pushButton_2'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 404, in window2
+    self.w = Window2()
+  File "/SCANNER/matrix.py", line 102, in __init__
+    self.w.pushButton_2.clicked.connect(self.reset_clicked)
+AttributeError: 'Ui_SETTINGSw' object has no attribute 'pushButton_2'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 404, in window2
+    self.w = Window2()
+  File "/SCANNER/matrix.py", line 102, in __init__
+    self.w.pushButton_2.clicked.connect(self.reset_clicked)
+AttributeError: 'Ui_SETTINGSw' object has no attribute 'pushButton_2'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+QObject::startTimer: Timers cannot be started from another thread
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 404, in window2
+    self.w = Window2()
+  File "/SCANNER/matrix.py", line 102, in __init__
+    self.w.pushButton_2.clicked.connect(self.reset_clicked)
+AttributeError: 'Ui_SETTINGSw' object has no attribute 'pushButton_2'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 404, in window2
+    self.w = Window2()
+  File "/SCANNER/matrix.py", line 102, in __init__
+    self.w.pushButton_2.clicked.connect(self.reset_clicked)
+AttributeError: 'Ui_SETTINGSw' object has no attribute 'pushButton_2'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 404, in window2
+    self.w = Window2()
+  File "/SCANNER/matrix.py", line 102, in __init__
+    self.w.pushButton_2.clicked.connect(self.reset_clicked)
+AttributeError: 'Ui_SETTINGSw' object has no attribute 'pushButton_2'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 404, in window2
+    self.w = Window2()
+  File "/SCANNER/matrix.py", line 102, in __init__
+    self.w.pushButton_2.clicked.connect(self.reset_clicked)
+AttributeError: 'Ui_SETTINGSw' object has no attribute 'pushButton_2'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 404, in window2
+    self.w = Window2()
+  File "/SCANNER/matrix.py", line 102, in __init__
+    self.w.pushButton_2.clicked.connect(self.reset_clicked)
+AttributeError: 'Ui_SETTINGSw' object has no attribute 'pushButton_2'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 404, in window2
+    self.w = Window2()
+  File "/SCANNER/matrix.py", line 102, in __init__
+    self.w.pushButton_2.clicked.connect(self.reset_clicked)
+AttributeError: 'Ui_SETTINGSw' object has no attribute 'pushButton_2'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 404, in window2
+    self.w = Window2()
+  File "/SCANNER/matrix.py", line 102, in __init__
+    self.w.pushButton_2.clicked.connect(self.reset_clicked)
+AttributeError: 'Ui_SETTINGSw' object has no attribute 'pushButton_2'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+QObject::startTimer: Timers cannot be started from another thread
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+exit
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+python3: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+QObject::startTimer: Timers cannot be started from another thread
+QObject::startTimer: Timers cannot be started from another thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QObject::startTimer: Timers cannot be started from another thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+name 'QtWidgets' is not defined
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+QObject::startTimer: Timers cannot be started from another thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QObject::startTimer: Timers cannot be started from another thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QObject::startTimer: Timers cannot be started from another thread
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+exit
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+QObject::startTimer: Timers cannot be started from another thread
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+QObject::startTimer: Timers cannot be started from another thread
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+QObject::startTimer: Timers cannot be started from another thread
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+QObject::startTimer: Timers cannot be started from another thread
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+exit
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+QObject::startTimer: Timers cannot be started from another thread
+qt5ct: D-Bus global menu: no
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+
+(onboard:1380): dbind-WARNING **: 10:43:00.852: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+10:43:01.252 WARNING Config: mousetweaks GSettings schema not found, mousetweaks integration disabled.
+Gdk-Message: 10:43:03.763: onboard: Fatal IO error 0 (Success) on X server :0.
+
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+exit
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+exit
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+[Errno 9] Writing GPIO: Bad file descriptor
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+exit
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+
+(onboard:1342): dbind-WARNING **: 14:31:09.388: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+14:31:10.241 WARNING Config: mousetweaks GSettings schema not found, mousetweaks integration disabled.
+Exception:2022/05/24-14:31:23
+string index out of range
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+
+(-c:1381): dbind-WARNING **: 14:31:31.227: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+14:31:31.921 WARNING Config: mousetweaks GSettings schema not found, mousetweaks integration disabled.
+qt5ct: D-Bus global menu: no
+Exception:2022/05/24-14:34:07
+string index out of range
+Serial QR loop exception:2022/05/24-14:34:07
+an integer is required (got type NoneType)
+<class 'TypeError'> matrix.py 586
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+/bin/sh: 0: Illegal option - 
+QObject::startTimer: Timers cannot be started from another thread
+QObject::startTimer: Timers cannot be started from another thread
+/bin/sh: 0: Illegal option - 
+/bin/sh: 0: Illegal option - 
+/bin/sh: 0: Illegal option - 
+/bin/sh: 0: Illegal option - 
+/bin/sh: 0: Illegal option - 
+QObject::startTimer: Timers cannot be started from another thread
+/bin/sh: 0: Illegal option - 
+QObject::startTimer: Timers cannot be started from another thread
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 444, in hide_keyboard
+    self.keybrdclose.clicked.disconnect(self.hide_keyboard)
+RuntimeError: wrapped C/C++ object of type QPushButton has been deleted
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+/bin/sh: 0: Illegal option - 
+QObject::startTimer: Timers cannot be started from another thread
+QObject::startTimer: Timers cannot be started from another thread
+/bin/sh: 0: Illegal option - 
+QObject::startTimer: Timers cannot be started from another thread
+Exception:2022/05/24-14:53:30
+string index out of range
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+exit
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+/bin/sh: 0: Illegal option - 
+/bin/sh: 0: Illegal option - 
+/bin/sh: 0: Illegal option - 
+/bin/sh: 0: Illegal option - 
+/bin/sh: 0: Illegal option - 
+/bin/sh: 0: Illegal option - 
+/bin/sh: 0: Illegal option - 
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+QObject::startTimer: Timers cannot be started from another thread
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+/bin/sh: 0: Illegal option - 
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+/bin/sh: 0: Illegal option - 
+/bin/sh: 0: Illegal option - 
+/bin/sh: 0: Illegal option - 
+/bin/sh: 0: Illegal option - 
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QObject::startTimer: Timers cannot be started from another thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+
+(onboard:1320): dbind-WARNING **: 16:39:15.283: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+16:39:16.049 WARNING Config: mousetweaks GSettings schema not found, mousetweaks integration disabled.
+QObject::startTimer: Timers cannot be started from another thread
+
+(onboard:1348): dbind-WARNING **: 17:01:44.315: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+17:01:45.041 WARNING Config: mousetweaks GSettings schema not found, mousetweaks integration disabled.
+QObject::startTimer: Timers cannot be started from another thread
+Len error:obatchno
+Exception:2022/05/24-17:02:54
+string index out of range
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+Exception:2022/05/24-17:03:13
+string index out of range
+Serial QR loop exception:2022/05/24-17:03:13
+write failed: [Errno 9] Bad file descriptor
+<class 'serial.serialutil.SerialException'> matrix.py 583
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 387
+    self.host[:4]=='SCCS':
+                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 433
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 394
+    else  self.host[:4]=='CPSR':
+             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 442
+    self.LABEL3.setText(_translate("DockWidget", "SCANNED :"))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "/SCANNER/matrix.py", line 9, in <module>
+    import matrixux
+  File "/SCANNER/matrixux.py", line 438
+    else:
+    ^
+IndentationError: unexpected indent
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+
+(onboard:1319): dbind-WARNING **: 17:51:36.960: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+17:51:37.828 WARNING Config: mousetweaks GSettings schema not found, mousetweaks integration disabled.
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QObject::startTimer: Timers cannot be started from another thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+
+(onboard:1293): dbind-WARNING **: 10:09:17.574: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+10:09:18.438 WARNING Config: mousetweaks GSettings schema not found, mousetweaks integration disabled.
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+QObject::startTimer: Timers cannot be started from another thread
+QBasicTimer::stop: Failed. Possibly trying to stop from a different thread
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+'Ui_DockWidget' object has no attribute 'LABEL4'
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+  File "/SCANNER/matrix.py", line 774
+    else
+       ^
+SyntaxError: invalid syntax
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+  File "/SCANNER/matrix.py", line 513
+    except Exception as e:
+         ^
+IndentationError: expected an indented block
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin
+libEGL warning: DRI2: failed to authenticate
+qt5ct: using qt5ct plugin

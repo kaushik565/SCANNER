@@ -1,0 +1,230 @@
+2021-03-05 16:11:55.983 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'TEST12345678', 'date_time': '2021/02/23-18:44:28', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-05 16:11:56.122 INFO mxsr_client_api - upload: <Response [401]>
+2021-03-05 16:11:57.782 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'TEST12345678', 'date_time': '2021/02/23-18:44:28', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-05 16:11:58.783 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-05 19:50:00.476 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701228', 'date_time': '2021/03/05-19:48:13', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-05 19:50:03.875 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-05 19:50:03.893 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/05-19:48:15', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-05 19:50:09.366 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-05 19:50:09.394 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701228', 'date_time': '2021/03/05-19:48:48', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-05 19:50:18.493 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-05 19:50:18.513 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701228', 'date_time': '2021/03/05-19:49:20', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-05 19:50:22.113 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-05 19:50:22.140 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/05-19:49:22', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-05 19:50:30.392 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-05 19:50:30.411 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701228', 'date_time': '2021/03/05-19:49:40', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-05 19:50:38.540 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-05 19:50:38.565 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/05-19:49:42', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-05 19:50:49.122 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-05 20:10:49.380 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701228', 'date_time': '2021/03/05-20:02:04', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-05 20:10:53.838 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-05 20:10:53.859 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/05-20:02:06', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-05 20:10:54.294 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-05 20:10:54.322 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701228', 'date_time': '2021/03/05-20:03:12', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-05 20:10:54.651 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-05 20:10:54.669 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/05-20:09:35', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-05 20:10:59.989 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 11:43:53.758 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/08-11:43:08', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 11:43:53.773 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/08-11:43:51', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 18:00:57.895 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/08-11:43:08', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 18:01:09.638 INFO mxsr_client_api - upload: <Response [401]>
+2021-03-08 18:01:12.188 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/08-11:43:08', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 18:01:14.238 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 18:01:14.264 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/08-11:43:51', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 18:01:15.122 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 18:01:15.145 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/08-11:49:51', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 18:01:17.543 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 18:04:33.803 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124433', 'date_time': '2021/03/08-18:03:47', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 18:04:36.942 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 19:42:28.009 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124433', 'date_time': '2021/03/08-18:04:35', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 19:42:28.156 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 19:42:28.174 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124433', 'date_time': '2021/03/08-18:04:40', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 19:42:28.276 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 19:42:28.301 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124577', 'date_time': '2021/03/08-18:07:14', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 19:42:28.406 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 19:42:28.424 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124577', 'date_time': '2021/03/08-18:07:18', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 19:42:28.533 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 19:53:45.092 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700528', 'date_time': '2021/03/08-19:45:09', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 19:53:52.228 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 19:53:52.255 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700528', 'date_time': '2021/03/08-19:45:19', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 19:53:58.440 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 19:53:58.459 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700528', 'date_time': '2021/03/08-19:48:52', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 19:54:03.557 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 19:54:03.590 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700528', 'date_time': '2021/03/08-19:48:55', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 19:54:09.614 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 19:54:09.644 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700528', 'date_time': '2021/03/08-19:49:05', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 19:54:14.108 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-08 20:06:18.718 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700528', 'date_time': '2021/03/08-19:53:50', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-08 20:06:18.905 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 09:06:56.787 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700531', 'date_time': '2021/03/08-20:07:27', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 09:07:01.772 INFO mxsr_client_api - upload: <Response [401]>
+2021-03-09 09:07:13.962 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700531', 'date_time': '2021/03/08-20:07:27', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 09:07:14.526 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 09:23:26.100 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/09-09:19:29', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 09:23:26.349 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 09:23:26.373 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-09:22:11', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 09:23:26.560 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 09:23:26.585 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-09:22:27', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 09:23:26.758 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 09:23:26.776 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-09:22:31', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 09:23:27.009 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 09:27:05.135 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-09:23:47', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 09:27:05.430 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 09:27:05.451 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124490', 'date_time': '2021/03/09-09:25:54', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 09:27:05.585 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 09:27:05.604 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124490', 'date_time': '2021/03/09-09:25:57', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 09:27:05.781 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 09:27:05.806 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124490', 'date_time': '2021/03/09-09:26:07', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 09:27:06.063 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 09:35:43.006 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124490', 'date_time': '2021/03/09-09:30:22', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 09:35:43.755 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 09:35:43.815 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700528', 'date_time': '2021/03/09-09:30:36', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 09:35:45.296 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 09:35:45.321 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/09-09:31:04', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 09:35:45.474 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 10:16:40.911 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/09-09:36:46', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 10:16:42.107 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 10:16:42.125 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-09:37:01', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 10:16:42.438 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 10:16:42.462 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700531', 'date_time': '2021/03/09-09:37:17', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 10:16:42.946 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 10:16:42.968 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124433', 'date_time': '2021/03/09-09:37:42', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 10:16:43.498 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:03:04.234 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124577', 'date_time': '2021/03/09-10:43:04', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:03:14.275 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:03:14.293 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'BS4201701227', 'date_time': '2021/03/09-10:43:09', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:03:24.944 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:03:24.964 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-10:43:34', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:03:39.142 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:03:39.164 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124489', 'date_time': '2021/03/09-10:43:51', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:03:52.800 INFO mxsr_client_api - upload: <Response [422]>
+2021-03-09 11:03:52.805 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-10:56:41', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:04:05.853 INFO mxsr_client_api - upload: <Response [422]>
+2021-03-09 11:04:05.858 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124489', 'date_time': '2021/03/09-10:56:56', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:04:08.816 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:04:08.838 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-11:01:30', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:04:29.985 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:04:30.014 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124577', 'date_time': '2021/03/09-11:01:45', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:04:45.764 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:04:45.792 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124489', 'date_time': '2021/03/09-11:02:00', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:04:59.740 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:04:59.763 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124490', 'date_time': '2021/03/09-11:02:15', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:05:13.962 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:13:36.033 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124489', 'date_time': '2021/03/09-10:43:51', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:13:36.178 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:13:36.203 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-10:56:41', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:13:37.040 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:13:37.058 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700522', 'date_time': '2021/03/09-11:12:30', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:13:37.195 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:13:37.212 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700522', 'date_time': '2021/03/09-11:12:33', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:13:37.360 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:29:47.320 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700522', 'date_time': '2021/03/09-11:15:28', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:29:52.376 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:29:52.395 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700519', 'date_time': '2021/03/09-11:15:33', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:29:57.411 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700538', 'date_time': '2021/03/09-11:16:39', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:29:57.429 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700522', 'date_time': '2021/03/09-11:16:53', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:29:57.441 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700519', 'date_time': '2021/03/09-11:16:58', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:39:57.769 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700519', 'date_time': '2021/03/09-11:15:33', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:39:58.575 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:39:58.594 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700538', 'date_time': '2021/03/09-11:16:39', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:39:58.978 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:39:59.001 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700522', 'date_time': '2021/03/09-11:16:53', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:39:59.186 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:39:59.205 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700519', 'date_time': '2021/03/09-11:16:58', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:39:59.611 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:39:59.632 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124490', 'date_time': '2021/03/09-11:30:10', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:00.059 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:00.084 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124489', 'date_time': '2021/03/09-11:30:14', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:00.402 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:00.421 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-11:30:42', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:00.881 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:00.898 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124433', 'date_time': '2021/03/09-11:30:46', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:01.484 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:01.510 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700523', 'date_time': '2021/03/09-11:30:52', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:01.773 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:01.794 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124577', 'date_time': '2021/03/09-11:30:59', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:02.118 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:02.141 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124577', 'date_time': '2021/03/09-11:34:18', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:02.748 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:02.770 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700006', 'date_time': '2021/03/09-11:35:03', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:03.372 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:03.394 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124490', 'date_time': '2021/03/09-11:35:08', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:03.819 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:03.849 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700541', 'date_time': '2021/03/09-11:35:27', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:04.137 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:04.161 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124489', 'date_time': '2021/03/09-11:35:31', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:15.053 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:15.075 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-11:35:38', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:15.491 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:15.510 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124433', 'date_time': '2021/03/09-11:35:45', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:15.903 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:15.925 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124433', 'date_time': '2021/03/09-11:37:55', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:16.227 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:16.254 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700523', 'date_time': '2021/03/09-11:38:02', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:16.683 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:16.702 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700522', 'date_time': '2021/03/09-11:38:09', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:16.987 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:17.005 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124577', 'date_time': '2021/03/09-11:38:15', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:17.524 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:17.551 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124577', 'date_time': '2021/03/09-11:39:16', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:17.823 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:17.843 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124490', 'date_time': '2021/03/09-11:39:31', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:18.268 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 11:40:18.291 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124489', 'date_time': '2021/03/09-11:39:48', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 11:40:18.703 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 12:14:09.032 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-11:40:03', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 12:14:10.495 INFO mxsr_client_api - upload: <Response [401]>
+2021-03-09 12:14:11.470 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-11:40:03', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 12:14:11.708 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 12:14:11.731 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700523', 'date_time': '2021/03/09-11:40:07', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 12:14:11.989 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 12:14:12.009 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124433', 'date_time': '2021/03/09-11:40:14', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 12:14:12.325 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 12:14:12.349 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700522', 'date_time': '2021/03/09-11:40:20', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 12:14:13.026 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 12:14:13.048 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700537', 'date_time': '2021/03/09-11:40:46', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 12:14:58.022 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700537', 'date_time': '2021/03/09-11:40:46', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 12:14:58.035 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700541', 'date_time': '2021/03/09-11:41:27', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 12:24:58.382 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700537', 'date_time': '2021/03/09-11:40:46', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 12:25:10.165 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 12:25:10.183 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'B1S15210700541', 'date_time': '2021/03/09-11:41:27', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 12:25:21.870 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 12:25:21.897 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124577', 'date_time': '2021/03/09-12:15:34', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 12:25:32.625 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 12:25:32.647 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124281', 'date_time': '2021/03/09-12:15:38', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 12:25:42.865 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-09 12:25:42.888 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V2M01210124489', 'date_time': '2021/03/09-12:15:45', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-09 12:25:52.473 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-12 09:56:31.015 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121350', 'date_time': '2021/03/10-17:44:14', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-12 09:56:31.234 INFO mxsr_client_api - upload: <Response [401]>
+2021-03-12 09:56:31.783 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121350', 'date_time': '2021/03/10-17:44:14', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-12 09:56:31.984 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-12 09:56:32.009 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121014', 'date_time': '2021/03/10-17:44:26', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-12 09:56:32.289 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-12 09:56:32.307 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121014', 'date_time': '2021/03/10-17:44:41', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-12 09:56:32.542 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-12 09:56:32.570 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121014', 'date_time': '2021/03/10-17:44:57', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-12 09:56:32.786 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-12 09:56:32.804 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121350', 'date_time': '2021/03/10-17:47:05', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-12 09:56:32.940 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-12 09:56:32.958 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121014', 'date_time': '2021/03/10-17:48:41', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-12 09:56:33.116 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-12 09:56:33.139 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121014', 'date_time': '2021/03/12-09:56:31', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-12 09:56:33.330 INFO mxsr_client_api - upload: <Response [201]>
+2021-03-17 12:17:42.402 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121014', 'date_time': '2021/03/12-09:59:56', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-17 12:17:42.410 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121316', 'date_time': '2021/03/12-10:00:00', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-17 12:17:42.416 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121316', 'date_time': '2021/03/12-10:00:05', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-17 12:17:42.422 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121316', 'date_time': '2021/03/12-10:00:11', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2021-03-17 12:17:42.428 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121316', 'date_time': '2021/03/12-10:00:17', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2019-02-14 15:42:19.715 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121014', 'date_time': '2021/03/12-09:59:56', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2022-05-20 12:16:23.627 INFO mxsr_client_api - upload: <Response [401]>
+2022-05-20 12:16:28.953 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121014', 'date_time': '2021/03/12-09:59:56', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2022-05-20 12:16:34.057 INFO mxsr_client_api - upload: <Response [422]>
+2022-05-20 12:16:34.060 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121316', 'date_time': '2021/03/12-10:00:00', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2022-05-20 12:16:39.191 INFO mxsr_client_api - upload: <Response [422]>
+2022-05-20 12:16:39.195 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121316', 'date_time': '2021/03/12-10:00:05', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2022-05-20 12:16:44.339 INFO mxsr_client_api - upload: <Response [422]>
+2022-05-20 12:16:44.342 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121316', 'date_time': '2021/03/12-10:00:11', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2022-05-20 12:16:49.470 INFO mxsr_client_api - upload: <Response [422]>
+2022-05-20 12:16:49.473 INFO mxsr_client_api - upload: {'line': '0', 'cube': '0', 'matrix_qrcode': 'MTEST', 'cartridge_qrcode': 'V3S08210121316', 'date_time': '2021/03/12-10:00:17', 'Equipment_id': 'XXXXB01TEST', 'Site_code': 'BG'}
+2022-05-20 12:16:54.624 INFO mxsr_client_api - upload: <Response [422]>

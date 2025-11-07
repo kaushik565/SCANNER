@@ -1,0 +1,15 @@
+2022-05-23 14:19:17.869 ERROR scannerclient - <module>: 'SCCS'
+Traceback (most recent call last):
+  File "/SCANNER/scannerclient.py", line 38, in <module>
+    uploadurl = globals()[a]
+KeyError: 'SCCS'
+2022-05-23 14:21:31.403 ERROR scannerclient - <module>: 'SCCS'
+Traceback (most recent call last):
+  File "/SCANNER/scannerclient.py", line 38, in <module>
+    uploadurl = globals()[a]
+KeyError: 'SCCS'
+2022-05-23 14:35:31.726 ERROR scannerclient - <module>: 'SCCS'
+Traceback (most recent call last):
+  File "/SCANNER/scannerclient.py", line 38, in <module>
+    uploadurl = globals()[a]
+KeyError: 'SCCS'

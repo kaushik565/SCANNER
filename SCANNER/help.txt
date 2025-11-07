@@ -1,0 +1,8 @@
+
+systemctl enable vncserver-x11-serviced.service
+systemctl start vncserver-x11-serviced.service
+
+systemctl disable vncserver-x11-serviced.service
+systemctl stop vncserver-x11-serviced.service
+
+pyuic5 settings.ui -o settings.py
